@@ -1,4 +1,6 @@
 # ARENA FURY — 3D First Person Shooter
+[Arena](https://geekrovira.github.io/3D-FPS-ARENA/)
+
 
 A browser-based 3D first-person shooter built with Three.js. Fight a single AI opponent in a neon-lit arena — no installs, no plugins, just open the file and play.
 
